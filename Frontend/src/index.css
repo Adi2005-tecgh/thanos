@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.roboto {
+    font-family: "Roboto Condensed", "Iansui";
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    font-variation-settings:
+      "width" 700;
+  }
